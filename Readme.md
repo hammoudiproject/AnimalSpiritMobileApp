@@ -2,23 +2,21 @@
 
 ![Presentation image](https://github.com/user-attachments/assets/9c0c233d-cddd-4741-af79-4e689a4a1879)
 
-PhoneTrap helps you assess phone addiction with fun quizzes and smart insights.
+Long Description
 
-*PhoneTrap* is a fun and insightful app designed to measure your level of phone addiction. Whether you’re a casual user or completely trapped in notifications, this app will analyze your habits through engaging quizzes and personalized results.
+Discover Your Animal Spirit Personality!
 
-What PhoneTrap Does:
+Ever wondered which animal truly represents your personality? Take the Animal Spirit Quiz and uncover your spiritual animal match!
 
-✅ Quiz-Based Assessment – Discover your phone dependency level in a fun way.
+✅ 10 Fun Questions - Answer thought-provoking questions about your lifestyle, preferences, and behavior
 
-✅ Personalized Ratings – Get unique, themed feedback based on your score.
+✅ 5 Unique Animal Results - Find out if you're a playful Chimpanzee, hardworking Donkey, relaxed Hippopotamus, bold Lion, or mysterious Mystery Animal
 
-✅ Insights & Tips – Learn how to balance screen time with real life.
+✅  Beautiful Visuals - Enjoy colorful animal illustrations and intuitive design
 
-Think you’re in control? Take the test and see if you’re truly free—or just another victim of the PhoneTrap!
+✅  Instant Results - Get your personality analysis immediately after completing the quiz
 
-Disclaimer
-All images were generated using Dall-E with prompt related to our app.
-
+✅ Share with Friends - Compare your animal spirit with others and see who matches your personality
 
 # Overview
 <div style="display: flex; justify-content: space-between;">
