@@ -68,6 +68,7 @@ Download now and embark on a journey of self-discovery through your animal spiri
 > * ARSHAD Momin
 > * IROUDAYARADJOU Richard
 > * JONNADULA Yashwanth
+> * ENDUKURI Hari
 
 **Designers & Testers:**
 
@@ -79,7 +80,6 @@ Download now and embark on a journey of self-discovery through your animal spiri
 > * DAS Deblena
 > * KOTTETI Kusuma
 > * CHENNAI Aravintakshan
-> * ENDUKURI Hari
 > * SOBY Edwin
 
 **Supervisor:**
