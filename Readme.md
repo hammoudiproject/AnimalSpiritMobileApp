@@ -64,7 +64,10 @@ Download now and embark on a journey of self-discovery through your animal spiri
 # Team
 
 **Designers & developpers:**
-
+> * QAISER Muhammad
+> * ARSHAD Momin
+> * IROUDAYARADJOU Richard
+> * JONNADULA Yashwanth
 
 **Designers & Testers:**
 
@@ -75,12 +78,8 @@ Download now and embark on a journey of self-discovery through your animal spiri
 > * ASOGWA Chi-uba
 > * DAS Deblena
 > * KOTTETI Kusuma
-> * ARSHAD Momin
 > * CHENNAI Aravintakshan
 > * ENDUKURI Hari
-> * IROUDAYARADJOU Richard
-> * JONNADULA Yashwanth
-> * QAISER Muhammad
 > * SOBY Edwin
 
 **Supervisor:**
