@@ -48,9 +48,9 @@ Download now and embark on a journey of self-discovery through your animal spiri
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/8257a18e-194e-4a3b-9ca1-8e2365053179" alt="Image 1" width="30%" />
+ <img src="https://github.com/user-attachments/assets/d371fad7-2eaf-4e93-a774-db87850bf58c" alt="Image 3" width="30%" />
   <img src="https://github.com/user-attachments/assets/084743ae-2f5f-44f3-bdff-45a35e27e5cc" alt="Image 2" width="30%" />
-  <img src="https://github.com/user-attachments/assets/d371fad7-2eaf-4e93-a774-db87850bf58c" alt="Image 3" width="30%" />
+    <img src="https://github.com/user-attachments/assets/8257a18e-194e-4a3b-9ca1-8e2365053179" alt="Image 1" width="30%" />
 </div>
 
 <div style="display: flex; justify-content: space-between;">
