@@ -1,4 +1,4 @@
-#  <img src="https://github.com/user-attachments/assets/b64d35ec-ef40-4db5-88e1-0d40e02e5ada" alt="Image 1" width="5%" /> Phone Trap 
+#  <img src="https://github.com/user-attachments/assets/b64d35ec-ef40-4db5-88e1-0d40e02e5ada" alt="Image 1" width="5%" /> Animal Spirit
 
 ![Presentation image](https://github.com/user-attachments/assets/9c0c233d-cddd-4741-af79-4e689a4a1879)
 
