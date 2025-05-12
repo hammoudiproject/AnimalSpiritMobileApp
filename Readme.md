@@ -39,39 +39,38 @@ How it works:
 Download now and embark on a journey of self-discovery through your animal spirit!
 
 # Overview
+
+
+
+
+
+
+
+
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/59a306ab-935e-4d44-b29f-d52ec14044b5" alt="Image 1" width="30%" />
-  <img src="https://github.com/user-attachments/assets/5c40d65d-3068-45a2-b51c-453b127f8d05" alt="Image 2" width="30%" />
-  <img src="https://github.com/user-attachments/assets/9c49a702-9389-4db5-81e1-2bce6f1a7a36" alt="Image 3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8257a18e-194e-4a3b-9ca1-8e2365053179" alt="Image 1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/084743ae-2f5f-44f3-bdff-45a35e27e5cc" alt="Image 2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d371fad7-2eaf-4e93-a774-db87850bf58c" alt="Image 3" width="30%" />
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/5923ea9b-df44-4d3c-bb7b-0a929ad5a997" alt="Image 6" width="30%" />
-  <img src="https://github.com/user-attachments/assets/b1087d28-9735-4a44-8dba-88957f00191c" alt="Image 5" width="30%" />
-  <img src="https://github.com/user-attachments/assets/cb0f0eec-a7a2-4a46-af5c-c63c8ce7dd0f" alt="Image 4" width="30%" />
+    <img src="https://github.com/user-attachments/assets/7b40eb21-a063-41a1-b6d0-a1b6a331749d" alt="Image 6" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7145b615-3e2e-4544-80b8-d6b98f70f5d7" alt="Image 5" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2e98307d-feb8-4426-8ae8-963b83a7b163" alt="Image 4" width="30%" />
 
 </div>
-
-# Version 2
-
-✅ Added feature: Get an assessment which is compared to the other user results (e.g. friends).
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/4993510f-1170-49c6-b73e-bd329f41f592" alt="Image 4" width="30%" />
-
-
 
 # Team
 
 **Designers & developpers:**
 
+
+**Designers & Testers:**
+
 > * OBAITAN Elizabeth
 > * OJELERE Oyinlola
 > * JIE Pengyu
 > * KAN Hasan
-
-**Designers & Testers:**
-
 > * ASOGWA Chi-uba
 > * DAS Deblena
 > * KOTTETI Kusuma
